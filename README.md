@@ -1,5 +1,7 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE:05/02/2024
+## NAME: BHUVANESHWARI M
+## REISTER NUMBER: 212223230033
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,6 +38,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![Screenshot 2024-04-05 104944](https://github.com/Bhuvana23013531/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/147125678/1bd73e49-02c8-46c2-98cd-b65731fadfb9)
 
 
 ## RESULT:
